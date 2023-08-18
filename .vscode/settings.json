@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "besu"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main"
     ]
 }
