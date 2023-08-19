@@ -1,0 +1,12 @@
+{
+    "name": "canon-besu",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+        "hardhat": "^2.17.0"
+    },
+    "dependencies": {
+        "all": "^0.0.0",
+        "dotenv": "^16.3.1",
+        "web3": "^4.0.3"
+    }
+}
